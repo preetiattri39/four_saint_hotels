@@ -1,0 +1,1 @@
+<?php echo $body; ?><?php /**PATH /var/www/html/four_saints_hotels/resources/views/email/sendEmail.blade.php ENDPATH**/ ?>

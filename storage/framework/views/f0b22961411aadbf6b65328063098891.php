@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/four_saints_hotels/resources/views/admin/transaction/view.blade.php ENDPATH**/ ?>
